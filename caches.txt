@@ -1,0 +1,36 @@
+   ~~~~~~~~~~~~L1I~~~~~~~~~~~
+--------------Set0------------- 
+Tag     Time    v        Data
+0000F88  10000     true	    4AC97C1F85199524
+00013EC  9999     true	    9992721C545E0C0B
+
+   ~~~~~~~~~~~~L1D~~~~~~~~~~~
+--------------Set0------------- 
+Tag     Time    v        Data
+00012D0  9996     true	    C6983D05E2434949
+0019A1E  9995     true	    F82B7F29E89FD626
+
+   ~~~~~~~~~~~~L2~~~~~~~~~~~
+--------------Set0------------- 
+Tag     Time    v        Data
+0001F1  10000     true	    4AC97C1F8519952468A6713104013404
+00025A  9996     true	    C6983D05E243494916B2A008C33CDD50
+--------------Set1------------- 
+Tag     Time    v        Data
+000100  9997     true	    DA059003D8B6EB46B394A1285A86064B
+000D46  9987     true	    5E5A9F54E862CD0234741451CB9B7468
+--------------Set2------------- 
+Tag     Time    v        Data
+00027D  9999     true	    9992721C545E0C0B4CD1BB73CF67F72F
+000035  9998     true	    31B3050863140A0632317743234BAC16
+--------------Set3------------- 
+Tag     Time    v        Data
+003343  9995     true	    F82B7F29E89FD626AF430638C4902078
+000385  9981     true	    D379D443E56228777B71902A33126026
+
+L1I-hits:2 L1I-misses:3941 L1I-evictions:3939
+L1D-hits:2037 L1D-misses:6057 L1D-evictions:4045
+L2-hits:2039 L2-misses:9996 L2-evictions:7978
+-Total hits:4078 
+-Total misses:19994 
+-Total evictions:15962
